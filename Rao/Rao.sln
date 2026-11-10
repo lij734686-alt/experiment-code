@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rao", "Rao.vcxproj", "{6B657EC8-915A-4633-B701-F81BCB645FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B657EC8-915A-4633-B701-F81BCB645FAD}.Debug|x64.ActiveCfg = Debug|x64
+		{6B657EC8-915A-4633-B701-F81BCB645FAD}.Debug|x64.Build.0 = Debug|x64
+		{6B657EC8-915A-4633-B701-F81BCB645FAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{6B657EC8-915A-4633-B701-F81BCB645FAD}.Debug|x86.Build.0 = Debug|Win32
+		{6B657EC8-915A-4633-B701-F81BCB645FAD}.Release|x64.ActiveCfg = Release|x64
+		{6B657EC8-915A-4633-B701-F81BCB645FAD}.Release|x64.Build.0 = Release|x64
+		{6B657EC8-915A-4633-B701-F81BCB645FAD}.Release|x86.ActiveCfg = Release|Win32
+		{6B657EC8-915A-4633-B701-F81BCB645FAD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46976726-5914-46AC-9B8E-2D85492A7F59}
+	EndGlobalSection
+EndGlobal
